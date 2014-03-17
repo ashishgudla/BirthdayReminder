@@ -1,17 +1,17 @@
 1-
-2- Priyanka
+2-
 3-
-4- Ayushi
+4-
 5-
 6-
-7-krishna teja
+7-
 8-
-9-Ashish,Jayanth
-10-Spandan
-11- Ramateja
+9- Ashish
+10-
+11-
 12- 
 13-
-14- Naresh
+14-
 15-
 16-
 17-
@@ -25,7 +25,7 @@
 25-
 26-
 27-
-28- Nayeem
+28-
 29- Sashidhar anna
 30-
 31-
